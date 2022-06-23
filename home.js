@@ -11,5 +11,5 @@ console.log("ia");
 console.log("f");
  
 //sabtu
-
+//saya
 console.log("gak kerja");
