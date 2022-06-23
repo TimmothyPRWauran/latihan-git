@@ -9,6 +9,3 @@ console.log("oh");
 console.log("yes");
 console.log("yeah");
 
-// rabu
-console.log("h");
-console.log("g");
